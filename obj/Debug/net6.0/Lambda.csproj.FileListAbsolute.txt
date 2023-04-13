@@ -1,0 +1,15 @@
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\Lambda\bin\Debug\net6.0\Lambda.exe
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\Lambda\bin\Debug\net6.0\Lambda.deps.json
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\Lambda\bin\Debug\net6.0\Lambda.runtimeconfig.json
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\Lambda\bin\Debug\net6.0\Lambda.dll
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\Lambda\bin\Debug\net6.0\Lambda.pdb
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\Lambda\obj\Debug\net6.0\Lambda.csproj.AssemblyReference.cache
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\Lambda\obj\Debug\net6.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfoInputs.cache
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfo.cs
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\Lambda\obj\Debug\net6.0\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\Lambda\obj\Debug\net6.0\Lambda.dll
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\Lambda\obj\Debug\net6.0\refint\Lambda.dll
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\Lambda\obj\Debug\net6.0\Lambda.pdb
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\Lambda\obj\Debug\net6.0\Lambda.genruntimeconfig.cache
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\Lambda\obj\Debug\net6.0\ref\Lambda.dll
