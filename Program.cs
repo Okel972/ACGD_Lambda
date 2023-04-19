@@ -16,9 +16,35 @@
             return result;
         }
 
+        public static List<dynamic> GetCarreType(List<float> liste)
+        {
+            List<dynamic> result1 = new();
+
+            foreach (var item in liste)
+            {
+                Type type = item.GetType();
+                dynamic carre = Convert.ChangeType(item * item, type);
+                result.Add(carre);
+            }
+            return result1;
+        }
+
+        public static List<dynamic> GetCarreTypeLambda(List<float> liste, Func<List<float>, List<dynamic>> filtre)
+        {
+            List<dynamic> result1 = new();
+
+            foreach (var item in liste)
+            {
+                Type type = item.GetType();
+                dynamic carre = Convert.ChangeType(item * item, type);
+                result.Add(carre);
+            }
+            return result1;
+        }
+
         static void Main(string[] args)
         {            
-            List<int> entiers = new List<int> { 1, 2, 3, 4, 5 };
+            List<int> entiers = new List<int { 1, 2, 3, 4, 5 };
             // Filtrer les nombres pairs
             List<int> pairs = Filtrer(entiers, x => x % 2 == 0);
             Console.WriteLine(string.Join(", ", pairs));
@@ -31,6 +57,8 @@
             List<int> grands = Filtrer(entiers, x => x > 3);
             Console.WriteLine(string.Join(", ", grands));
             // Affiche "4, 5"
+
+            //List<float> entiers = new List<int> { 1, 2, 3, 4, 5 };
         }
     }
 }
